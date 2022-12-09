@@ -1,0 +1,12 @@
+{
+  "name": "test-esm-mui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Janpot/test-esm-mui.git",
+  "author": "Jan Potoms <2109932+Janpot@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@untitled-ui/icons-react": "^0.1.1"
+  }
+}
